@@ -29,9 +29,8 @@
           "properties": {
             "folder_icon": "...",
             "folder_separator_icon": "/",
-            "home_icon": "~",
             "max_depth": 3,
-            "style": "agnoster_short"
+            "style": "full"
           },
           "style": "powerline",
           "template": " {{ .Path }} ",
