@@ -17,7 +17,7 @@
             "manjaro": "\uf312",
             "opensuse": "\uf314",
             "ubuntu": "\uf31b",
-            "windows": "\uf17a"
+            "windows": "\ue62a"
           },
           "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
           "foreground": "#EFDCF9",
